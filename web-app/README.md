@@ -1,6 +1,9 @@
-Code related to the web app goes in this folder.
+## Screenshot
+![screenshot](./static/images/Screenshot.png)
 
-### Run the Web App
+
+
+## Run the Web App
 
 - cd to the current directory
   - `cd web-app`
